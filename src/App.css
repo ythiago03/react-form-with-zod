@@ -10,3 +10,7 @@ label{
   display: flex;
   flex-direction: column;
 }
+
+span{
+  color: red;
+}
